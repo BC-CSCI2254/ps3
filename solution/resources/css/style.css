@@ -1,0 +1,24 @@
+.main {
+  display: flex;
+  flex-wrap: wrap;
+  background:white;
+  border:10px solid teal;
+  width:600px;
+  height:600px;
+  margin:100px auto;
+}
+.inner {
+  background:#7A7A7A;
+  width:140px;
+  height:140px;
+  margin:5px;
+  color:white;
+  font-size:300%;
+  line-height:140px;
+  text-align:center;
+}
+.button {
+  background: blue;
+  width: 200px;
+  height: 200px;
+}
